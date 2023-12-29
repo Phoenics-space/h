@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "stratos:block/air_mahoe_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "stratos:block/air_mahoe_wood"
+    },
+    "axis=z": {
+      "model": "stratos:block/air_mahoe_wood",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "stratos:block/stripped_air_mahoe_log_side",
+    "side": "stratos:block/stripped_air_mahoe_log_side"
+  }
+}

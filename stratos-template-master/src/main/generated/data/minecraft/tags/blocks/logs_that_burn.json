@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "stratos:air_mahoe_log",
+    "stratos:air_mahoe_wood",
+    "stratos:stripped_air_mahoe_log",
+    "stratos:stripped_air_mahoe_wood"
+  ]
+}

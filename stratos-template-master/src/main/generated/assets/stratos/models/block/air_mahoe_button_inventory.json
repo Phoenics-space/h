@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "stratos:block/air_mahoe_planks"
+  }
+}

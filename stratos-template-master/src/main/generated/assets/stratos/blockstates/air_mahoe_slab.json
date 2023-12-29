@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stratos:block/air_mahoe_slab"
+    },
+    "type=double": {
+      "model": "stratos:block/ruby_block"
+    },
+    "type=top": {
+      "model": "stratos:block/air_mahoe_slab_top"
+    }
+  }
+}

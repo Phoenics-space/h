@@ -1,0 +1,5 @@
+<root>
+    <item name='net.minecraft.data.client.BlockStateModelGenerator void registerTopSoil(net.minecraft.block.Block, net.minecraft.util.Identifier, net.minecraft.data.client.BlockStateVariant) 0'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

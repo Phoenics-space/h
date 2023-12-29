@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "stratos:block/cobbled_stratos_stone"
+  }
+}

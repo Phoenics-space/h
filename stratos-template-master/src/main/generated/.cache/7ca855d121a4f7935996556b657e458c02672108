@@ -1,0 +1,8 @@
+// 1.20.2	2023-12-03T10:32:50.3394051	Stratos/Tags for minecraft:block
+e3223669cc88c04b0336d820007caa6bdb2aa796 data\minecraft\tags\blocks\mineable\pickaxe.json
+eabac887510d1a917a4884a7caa86aab9fbf166c data\minecraft\tags\blocks\logs_that_burn.json
+15e239e0dddb9d95186d9d7570f54cfa7f1b6c1a data\minecraft\tags\blocks\fences.json
+560d7d64725f46ecae74661ed3e5d0d6029525a1 data\minecraft\tags\blocks\walls.json
+621cb4a8dd5530001db2775e2843edfb64ebb661 data\minecraft\tags\blocks\fence_gates.json
+ece305833b98d414ff9820a024dc158172f93241 data\minecraft\tags\blocks\needs_iron_tool.json
+e3e8a0ae873452e214767c8e0c78ed2a31b90ea7 data\minecraft\tags\blocks\dirt.json

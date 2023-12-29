@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "stratos:block/lichen_growth_top",
+    "side": "stratos:block/lichen_growth",
+    "bottom": "stratos:block/stratos_stone"
+  }
+}

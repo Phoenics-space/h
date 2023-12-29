@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "stratos:cobbled_stratos_stone",
+    "stratos:stratos_stone",
+    "stratos:frame",
+    "stratos:ruby_block",
+    "stratos:ruby_ore"
+  ]
+}

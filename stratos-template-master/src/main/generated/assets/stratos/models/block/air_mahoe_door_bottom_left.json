@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "stratos:block/air_mahoe_door_bottom",
+    "top": "stratos:block/air_mahoe_door_top"
+  }
+}

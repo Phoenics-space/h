@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "stratos:block/air_mahoe_planks"
+  }
+}
